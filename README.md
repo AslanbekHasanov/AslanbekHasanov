@@ -22,7 +22,7 @@
   <a href="https://github.com/iCloudBMX?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/iCloudBMX?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
   <a href="https://github.com/iCloudBMX">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=iCloudBMX&style=for-the-badge"/></a>
+    <img alt="views" title="GitHub profile views" src="https://github.com/AslanbekHasanov?tab=followers"/></a>
 </p>
 
 ## 🔥 Streak stats
