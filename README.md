@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Aslanbek 👋
 
-> A software engineer building awesome web back/front stuff using .NET tech-stack at `FreightPOP`. A proud co-founder of `.NET Uzbekistan Community` where we make live streams and events to increase the .NET development in Uzbekistan. A teacher of `PDP Academy` where we educate future software engineers.
+>I am active in the .Net web field and a member of the `.Net community in Uzbekistan`. I have been working mainly in the backend direction at the `Young Centre`
 <br/>
 
 <!-- Social icons section -->
