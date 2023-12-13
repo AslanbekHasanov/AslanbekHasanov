@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UCWDF6TvAUR2NZsuljGO-i5A"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/khondamir"><img width="32px" alt="Dev.to" title="ilosrim Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/aslanbekhasanov"><img width="32px" alt="Dev.to" title="ilosrim Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dot-net.uz/"><img width="32px" alt="Free Stuff" title="Personal website" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
