@@ -18,3 +18,4 @@
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 
 </br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
