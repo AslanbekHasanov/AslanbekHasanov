@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Aslanbek 👋
 
->I am active in the .Net web field and a member of the `.Net community in Uzbekistan`. I have been working mainly in the backend direction at the `Young Centre`
+>I am active in the .Net web field and a member of the `_.Net community in Uzbekistan_`. I have been working mainly in the backend direction at the `_Young Centre_`
 <br/>
 ## 💼 Technical Skills
 
