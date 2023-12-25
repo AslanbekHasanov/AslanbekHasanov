@@ -19,5 +19,3 @@
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragramist-07&layout=compact&theme=cobalt&hide_border
