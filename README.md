@@ -4,6 +4,6 @@
 
  ### Hi there, I'm Aslanbek 👋
 
-> I am active in the **`.Net`** web field and a member of the **`.Net community in Uzbekistan`**. I have been working mainly in the backend direction at the **`Young Centre`**
+> I am active in the **`.Net`** web field and a member of the **`.Net community in Uzbekistan`**.<br/> I have been working mainly in the backend direction at the **`Young Centre`**
 <br/>
 </br>
