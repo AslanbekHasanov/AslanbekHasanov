@@ -7,7 +7,7 @@
 > I am active in the **`.Net`** web field and a member of the **`.Net community in Uzbekistan`**. I have been working mainly in the backend direction at the **`Young Centre`**
 <br>
 
-- 🔭 I’m currently working on **.NET || C# **
+- 🔭 I’m currently working on **.NET || C#**
 
 - 💬 Ask me about **ASP.NET Core, Web API, Telegram Bot**
 
@@ -15,8 +15,8 @@
 
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanbekHasanov&layout=compact" alt="bdviett" height="100" width="200" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AslanbekHasanov&show_icons=true&theme=radical" alt="bdviett" height="100" width="300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanbekHasanov&layout=compact" alt="bdviett" height="200" width="300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AslanbekHasanov&show_icons=true&theme=radical" alt="bdviett" height="200" width="400" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
