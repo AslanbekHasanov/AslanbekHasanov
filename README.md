@@ -16,6 +16,6 @@
 
 <i class="fa-brands fa-telegram"></i>
 <a href="https://t.me/aslan1220">Telegram</a> || 
-[LinkedIn](https://www.linkedin.com/in/aslanbek-hasanov-b22076220/)
+<a href="[https://www.linkedin.com/in/arman-das-359b57210](https://www.linkedin.com/in/aslanbek-hasanov-b22076220/)" target="blank"><img align="center" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /></a>
 <br/>
 </br>
