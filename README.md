@@ -10,7 +10,7 @@
 ![Most Language]()
 ![Status](https://github-readme-stats.vercel.app/api?username=AslanbekHasanov&show_icons=true&theme=radical) 
 <p>
-  <img href="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanbekHasanov&layout=compact" style="margin: 10px">
+  <img href="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanbekHasanov&layout=compact" style="padding: 5px">
   <img href="https://github-readme-stats.vercel.app/api?username=AslanbekHasanov&show_icons=true&theme=radical">
 </p>
 
