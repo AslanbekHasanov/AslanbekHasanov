@@ -27,5 +27,11 @@ alt="bdviett" height="30" width="40" /></a>
 alt="bdviett" height="30" width="35" /></a>
 <a href="https://medium.com/@learneraslanbek1220" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/medium_m_logo_icon_145072.png" 
 alt="bdviett" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100076770307308" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/facebook_logo_icon_147291.png" 
+alt="bdviett" height="30" width="40" /></a>
+<a href="live:.cid.a9b6190b6d4644cb" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/405/PNG/512/Skype_40679.png" 
+alt="bdviett" height="30" width="40" /></a>
+<a href="https://www.sololearn.com/en/profile/24643811" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/3915/PNG/512/sololearn_logo_icon_249580.png" 
+alt="bdviett" height="30" width="40" /></a>
 </p>
 
