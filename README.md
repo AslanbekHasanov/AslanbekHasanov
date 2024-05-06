@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ducviet.dev@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/bdviett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bdviett" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bdviett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bdviett" height="30" width="40" /></a>
@@ -31,7 +31,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AslanbekHasanov&show_icons=true&theme=radical" alt="bdviett" height="100" width="300" />
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aslanbek-hasanov-b22076220" target="blank"><img align="center" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" 
+alt="bdviett" height="30" width="40" /></a>
+<a href="https://t.me/aslan_1220" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2864/PNG/512/telegram_logo_icon_181740.png" 
+alt="bdviett" height="30" width="40" /></a>
+</p>
 
-<a href="https://www.linkedin.com/in/aslanbek-hasanov-b22076220" target="blank"><img align="center" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /></a>
-<br/>
-</br>
