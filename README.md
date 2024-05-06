@@ -27,11 +27,9 @@
 <p><a href="https://www.buymeacoffee.com/bdviet"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bdviet" /></a></p><br><br>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanbekHasanov&layout=compact" alt="bdviett" height="30" width="40" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AslanbekHasanov&show_icons=true&theme=radical" alt="bdviett" height="30" width="40" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanbekHasanov&layout=compact" alt="bdviett" height="300" width="500" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AslanbekHasanov&show_icons=true&theme=radical" alt="bdviett" height="300" width="600" />
 </p>
-- ![Most Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AslanbekHasanov&layout=compact)
-- ![Status](https://github-readme-stats.vercel.app/api?username=AslanbekHasanov&show_icons=true&theme=radical) 
 
 
 <a href="https://www.linkedin.com/in/aslanbek-hasanov-b22076220" target="blank"><img align="center" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /></a>
