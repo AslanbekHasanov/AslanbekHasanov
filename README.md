@@ -8,6 +8,7 @@
 <br>
 
 ![Status](https://github-readme-stats.vercel.app/api?username=AslanbekHasanov&show_icons=true&theme=radical)
+![Most Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AslanbekHasanov&layout=compact)
 
 <br/>
 </br>
