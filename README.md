@@ -7,8 +7,12 @@
 > I am active in the **`.Net`** web field and a member of the **`.Net community in Uzbekistan`**. I have been working mainly in the backend direction at the **`Young Centre`**
 <br>
 
+![Most Language]()
 ![Status](https://github-readme-stats.vercel.app/api?username=AslanbekHasanov&show_icons=true&theme=radical) 
-![Most Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AslanbekHasanov&layout=compact)
+<p>
+  <img href="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanbekHasanov&layout=compact" style="margin: 10px">
+  <img href="https://github-readme-stats.vercel.app/api?username=AslanbekHasanov&show_icons=true&theme=radical">
+</p>
 
 <br/>
 </br>
