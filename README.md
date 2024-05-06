@@ -12,8 +12,8 @@
 
 ![Status](https://github-readme-stats.vercel.app/api?username=AslanbekHasanov&show_icons=true&theme=radical) 
 
-<i class="fa-brands fa-telegram">
+<i class="fa-brands fa-telegram"></i>
 <a href="https://t.me/aslan1220"></a>
-</i>
+
 <br/>
 </br>
