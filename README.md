@@ -24,6 +24,8 @@
 <a href="https://www.linkedin.com/in/aslanbek-hasanov-b22076220" target="blank"><img align="center" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" 
 alt="bdviett" height="30" width="40" /></a>
 <a href="https://t.me/aslan_1220" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2864/PNG/512/telegram_logo_icon_181740.png" 
+alt="bdviett" height="30" width="35" /></a>
+<a href="https://medium.com/@learneraslanbek1220" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/medium_m_logo_icon_145072.png" 
 alt="bdviett" height="30" width="40" /></a>
 </p>
 
