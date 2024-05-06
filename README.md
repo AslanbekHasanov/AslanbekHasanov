@@ -6,5 +6,7 @@
 
 > I am active in the **`.Net`** web field and a member of the **`.Net community in Uzbekistan`**. I have been working mainly in the backend direction at the **`Young Centre`**
 
+![State](https://github-readme-stats.vercel.app/api?username=AslanbekHasanov&show_icons=true&theme=radical)
+
 <br/>
 </br>
