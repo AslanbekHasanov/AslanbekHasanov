@@ -34,6 +34,6 @@ alt="bdviett" height="20" width="25" /></a>
 <a href="https://www.sololearn.com/en/profile/24643811" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/3915/PNG/512/sololearn_logo_icon_249580.png" 
 alt="bdviett" height="20" width="25" /></a>
 <a href="https://www.codewars.com/users/AslanbekHasanov/" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codewars_button_icon_151901.png" 
-alt="bdviett" /></a>
+alt="bdviett" margin="0 20 0 40" height="20" width="200"/></a>
 </p>
 
