@@ -14,8 +14,8 @@
 - 📫 How to reach me **[Email](learneraslanbek1220@gmail.com)**
 
 
-<p align="left" padding="50px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanbekHasanov&layout=compact" alt="bdviett" height="200" width="300" />
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanbekHasanov&layout=compact" alt="bdviett" height="200" width="300" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AslanbekHasanov&show_icons=true&theme=radical" alt="bdviett" height="200" width="400" />
 </p>
 
