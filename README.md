@@ -27,8 +27,8 @@
 <p><a href="https://www.buymeacoffee.com/bdviet"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bdviet" /></a></p><br><br>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanbekHasanov&layout=compact" alt="bdviett" height="300" width="500" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AslanbekHasanov&show_icons=true&theme=radical" alt="bdviett" height="300" width="600" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanbekHasanov&layout=compact" alt="bdviett" height="100" width="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AslanbekHasanov&show_icons=true&theme=radical" alt="bdviett" height="100" width="300" />
 </p>
 
 
