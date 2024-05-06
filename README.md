@@ -7,24 +7,12 @@
 > I am active in the **`.Net`** web field and a member of the **`.Net community in Uzbekistan`**. I have been working mainly in the backend direction at the **`Young Centre`**
 <br>
 
-- 🔭 I’m currently working on **NodeJS (NestJS) - TypeScript**
+- 🔭 I’m currently working on **.NET || C# **
 
-- 💬 Ask me about **vue, laravel, nestJs**
+- 💬 Ask me about **ASP.NET Core, Web API, Telegram Bot**
 
-- 📫 How to reach me **ducviet.dev@gmail.com**
+- 📫 How to reach me **[Email](learneraslanbek1220@gmail.com)**
 
-
-<p align="left">
-<a href="https://twitter.com/bdviett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bdviett" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bdviett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bdviett" height="30" width="40" /></a>
-<a href="https://fb.com/bdviett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bdviett" height="30" width="40" /></a>
-<a href="https://instagram.com/bdviett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bdviett" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bdviet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bdviett" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/bdviet"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bdviet" /></a></p><br><br>
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanbekHasanov&layout=compact" alt="bdviett" height="100" width="200" />
