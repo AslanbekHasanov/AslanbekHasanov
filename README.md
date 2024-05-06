@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 <h1 align="center">
   <img src="https://github.com/AslanbekHasanov/AslanbekHasanov/blob/main/name.svg" />
 </h1>
@@ -14,6 +16,6 @@
 
 <i class="fa-brands fa-telegram"></i>
 <a href="https://t.me/aslan1220">Telegram</a>
-
+[LinkedIn](https://www.linkedin.com/in/aslanbek-hasanov-b22076220/)
 <br/>
 </br>
