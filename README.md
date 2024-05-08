@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ASP.NET Core, Web API, Telegram Bot**
 
-- 📫 How to reach me **<a href="mailto:learneraslanbek1220@gmail.com">E-mail</a> **
+- 📫 How to reach me **<a href="mailto:learneraslanbek1220@gmail.com">E-mail</a>**
 
 
 <p align="left">
