@@ -24,6 +24,9 @@
   <img align="left" src="https://leetcode.card.workers.dev/AslanbekHasanov?theme=dark&font=baloo&extension=null" alt="LeetCode" height="200" width="360" />
   <img align="center" src="https://github.r2v.ch/codewars?user=AslanbekHasanov&stroke=%23BB432C" alt="CodeWars" height="200" width="400" />
 </p>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AslanbekHasanov&theme=ayu-mirage" alt="GitHub Streak" /></a>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
